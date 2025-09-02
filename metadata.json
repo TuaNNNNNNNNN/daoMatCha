@@ -1,0 +1,7 @@
+{
+  "name": "Employee Management System",
+  "description": "A comprehensive application for managing employees, schedules, attendance, and payroll with geofenced check-in capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
